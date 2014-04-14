@@ -1,0 +1,170 @@
+; multi-segment executable file template.
+
+save_rg macro
+        push    ax
+        push    bx
+        push    cx
+        push    dx
+        push    si
+        push    di
+        endm
+load_rg macro
+        pop    di
+        pop    si
+        pop    dx
+        pop    cx
+        pop    bx
+        pop    ax
+        endm
+data segment
+    ; add your data here!  
+ac1 dw  0   ; integer(CHFT) celaja chastj
+ac2 dw  0   ; integer(ChFT) drobnaja chast
+del dw  1   ; delitel pokazivaet skolko cifr v drobnoj chasti
+k10 dw  8   ; 10 v zadannoj c/c (в данном случае - восьмеричной) 
+s1  db  'input 1-e number  $'
+s2  db  'input 2-e number  $'
+v   db  7   ; obshaja dlina
+    db  0   ; facticheskaja dlina
+v1  db  5 dup(0) ;-.123 +1.23 -12.3 -123. pole dlja vvoda
+		db 10 dup('0')
+c1  db  3 dup('0')   ; 000 celaja chastj (переписываем из v1)
+c2  db  3 dup('0')  ;000 drobnaja chastj    
+ends
+
+stack segment
+    dw   128  dup(0)
+ends
+
+code segment
+    assume cs:code, ds:data
+start proc
+; set segment registers:
+    mov ax, data
+    mov ds, ax
+    mov es, ax
+
+    ; add your code here
+            
+    lea dx, s1
+    mov ah, 9
+    int 21h        ; output string at ds:dx 
+    ;vvod chisla v 8c/c
+    lea  dx, v
+    mov ah, 0aH
+    int 21H
+    ; podgotovka
+    xor dx, dx
+    xor ax, ax
+    mov di, 2   ; dlja zapisi drobnoj chasti v c2 (индекс для записи)
+    ;mov al, v+1 ; fakticheskoe kolichestvo simvolov
+    ;mov si,ax  
+	mov si,4 ; для записи введенного числа
+    ;dec si   ; ustanovka na poslednij cimvol vvedennogo chisla
+    mov al, v1[si] ; чтение последнего символа
+    cmp al, '.' ; дробное число или нет
+    je  L1
+    ; chislo drobnoe
+L2: mov c2[di], al
+	dec di
+	mov ax,del
+	
+	;dec si
+	;mov ax, del
+    mul k10
+    mov del, ax
+	dec si
+    mov al, v1[si]
+   ; mov c2[di], al
+   ; dec di
+   ; dec si
+   ; mov al, v1[si]
+    cmp al, '.'
+    jne  L2
+    jmp L3 
+    ; chislo celoe
+L1: dec si
+    mov al, v1[si]
+    cmp al, '+'
+    je  L4
+    cmp al, '-'
+    je  L4
+    mov c1[di], al
+    dec di
+    jmp L1
+    ; konchilasj drobnaja chastj, nachalasj celaja
+L3: mov di, 2
+    jmp L1
+    ; perevod   iz  8c/c v  CHFT
+    ; chislo celoe
+L4: lea dx, c1 ; начало целой части
+    push    dx  ; [bp+8]
+    push    ac1   ; [bp+6] место в стеке для переведенного числа
+    push    k10    ; [bp+4]
+    call    C8_F
+    pop ax
+    pop ac1 ; perevedennoe chislo
+    pop ax
+    cmp v1[si], '-'
+	jne L5
+    ;xor dx, dx
+    ;mov ax, ac1
+    ;mov cx, -1
+    ;mul cx
+    ;mov ac1, ax
+	neg ac1
+    ; perevod   iz  8c/c v  CHFT
+    ; chislo drobnoe
+L5: lea dx, c2 
+    push    dx  ; [bp+8]
+    push    ac2   ; [bp+6]
+    push    k10    ; [bp+4]
+    call    C8_F
+    pop ax
+    pop ac2 ; perevedennoe chislo
+    pop ax
+    cmp v1[si], '-'
+    xor dx, dx
+    mov ax, ac2
+    mov cx, -1
+    mul cx
+    mov ac2, ax
+    ; rabota c ChPT
+    
+    
+        
+    ; wait for any key....    
+    mov ah, 1
+    int 21h
+    
+    mov ax, 4c00h ; exit to operating system.
+    int 21h    
+start endp
+C8_F  proc ; перевод из восьмеричной системы в чфт
+    ;a0*k10^2+a1*k10+a2 = ((0 + a0)*k10+a1)*k10+a2
+        push    bp
+        mov bp, sp
+        save_rg
+        ; code
+        xor DX, DX
+        xor di, di  ; nakopitel
+        mov cx, [bp+4] ;K10
+        mov bx, [bp+8] ;(bx) = @(c1) (bx) = ((bp)+8)
+        xor si, si
+LM1:    xor ax, ax
+        mov al, [bx][si]
+        and al, 0FH
+        add di, ax
+        mul cx
+		mov di,ax
+        inc si
+        cmp si, 2
+        jng LM1
+        mov [bp+6], di        
+        load_rg
+        pop bp
+        ret            
+C8_F  endp    
+ends
+
+end start ; set entry point and stop the assembler.

@@ -1,0 +1,5 @@
+C:\Users\днс\documents\visual studio 2010\Projects\alg_kurs\Huffman\bin\Release\Huffman.dll
+C:\Users\днс\documents\visual studio 2010\Projects\alg_kurs\Huffman\bin\Release\Huffman.pdb
+C:\Users\днс\documents\visual studio 2010\Projects\alg_kurs\Huffman\obj\Release\ResolveAssemblyReference.cache
+C:\Users\днс\documents\visual studio 2010\Projects\alg_kurs\Huffman\obj\Release\Huffman.dll
+C:\Users\днс\documents\visual studio 2010\Projects\alg_kurs\Huffman\obj\Release\Huffman.pdb

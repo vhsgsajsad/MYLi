@@ -1,0 +1,17 @@
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\bin\Debug\alg_kurs.exe
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\bin\Debug\alg_kurs.pdb
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\bin\Debug\Huffman.dll
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\bin\Debug\WPFToolkit.dll
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\bin\Debug\Huffman.pdb
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\bin\Debug\WPFToolkit.pdb
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\obj\x86\Debug\DynamicHuffman.csprojResolveAssemblyReference.cache
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\obj\x86\Debug\MainWindow.baml
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\obj\x86\Debug\MainWindow.g.cs
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\obj\x86\Debug\App.g.cs
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs_MarkupCompile.cache
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.g.resources
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.Properties.Resources.resources
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\obj\x86\Debug\DynamicHuffman.csproj.GenerateResource.Cache
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.exe
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.pdb

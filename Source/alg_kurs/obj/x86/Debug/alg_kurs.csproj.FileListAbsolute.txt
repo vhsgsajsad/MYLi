@@ -1,0 +1,109 @@
+c:\users\днс\documents\visual studio 2010\Projects\alg_kurs\alg_kurs\bin\Debug\alg_kurs.exe
+c:\users\днс\documents\visual studio 2010\Projects\alg_kurs\alg_kurs\bin\Debug\alg_kurs.pdb
+c:\users\днс\documents\visual studio 2010\Projects\alg_kurs\alg_kurs\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\днс\documents\visual studio 2010\Projects\alg_kurs\alg_kurs\obj\x86\Debug\MainWindow.baml
+c:\users\днс\documents\visual studio 2010\Projects\alg_kurs\alg_kurs\obj\x86\Debug\MainWindow.g.cs
+c:\users\днс\documents\visual studio 2010\Projects\alg_kurs\alg_kurs\obj\x86\Debug\App.g.cs
+c:\users\днс\documents\visual studio 2010\Projects\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs_MarkupCompile.cache
+c:\users\днс\documents\visual studio 2010\Projects\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.g.resources
+c:\users\днс\documents\visual studio 2010\Projects\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.Properties.Resources.resources
+c:\users\днс\documents\visual studio 2010\Projects\alg_kurs\alg_kurs\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\днс\documents\visual studio 2010\Projects\alg_kurs\alg_kurs\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\днс\documents\visual studio 2010\Projects\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.exe
+c:\users\днс\documents\visual studio 2010\Projects\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.pdb
+C:\Users\днс\Documents\Visual Studio 2010\Projects\alg_kurs\alg_kurs\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\днс\Documents\Visual Studio 2010\Projects\alg_kurs\alg_kurs\bin\Debug\WPFToolkit.dll
+C:\Users\днс\Documents\Visual Studio 2010\Projects\alg_kurs\alg_kurs\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\днс\Documents\Visual Studio 2010\Projects\alg_kurs\alg_kurs\bin\Debug\WPFToolkit.pdb
+C:\Users\днс\Documents\Visual Studio 2010\Projects\alg_kurs\alg_kurs\bin\Debug\Huffman.dll
+C:\Users\днс\Documents\Visual Studio 2010\Projects\alg_kurs\alg_kurs\bin\Debug\Huffman.pdb
+G:\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.exe
+G:\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.pdb
+G:\alg_kurs\alg_kurs\bin\Debug\alg_kurs.exe
+G:\alg_kurs\alg_kurs\bin\Debug\alg_kurs.pdb
+G:\alg_kurs\alg_kurs\bin\Debug\Huffman.dll
+G:\alg_kurs\alg_kurs\bin\Debug\WPFToolkit.dll
+G:\alg_kurs\alg_kurs\bin\Debug\Huffman.pdb
+G:\alg_kurs\alg_kurs\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+G:\alg_kurs\alg_kurs\bin\Debug\WPFToolkit.pdb
+G:\alg_kurs\alg_kurs\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\alg_kurs\alg_kurs\obj\x86\Debug\MainWindow.baml
+G:\alg_kurs\alg_kurs\obj\x86\Debug\MainWindow.g.cs
+G:\alg_kurs\alg_kurs\obj\x86\Debug\App.g.cs
+G:\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs_MarkupCompile.cache
+G:\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.g.resources
+G:\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.Properties.Resources.resources
+G:\alg_kurs\alg_kurs\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\alg_kurs\alg_kurs\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\универ\еще не сдал\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.exe
+D:\универ\еще не сдал\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.pdb
+D:\универ\еще не сдал\alg_kurs\alg_kurs\bin\Debug\alg_kurs.exe
+D:\универ\еще не сдал\alg_kurs\alg_kurs\bin\Debug\alg_kurs.pdb
+D:\универ\еще не сдал\alg_kurs\alg_kurs\bin\Debug\Huffman.dll
+D:\универ\еще не сдал\alg_kurs\alg_kurs\bin\Debug\WPFToolkit.dll
+D:\универ\еще не сдал\alg_kurs\alg_kurs\bin\Debug\Huffman.pdb
+D:\универ\еще не сдал\alg_kurs\alg_kurs\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+D:\универ\еще не сдал\alg_kurs\alg_kurs\bin\Debug\WPFToolkit.pdb
+D:\универ\еще не сдал\alg_kurs\alg_kurs\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\универ\еще не сдал\alg_kurs\alg_kurs\obj\x86\Debug\MainWindow.baml
+D:\универ\еще не сдал\alg_kurs\alg_kurs\obj\x86\Debug\MainWindow.g.cs
+D:\универ\еще не сдал\alg_kurs\alg_kurs\obj\x86\Debug\App.g.cs
+D:\универ\еще не сдал\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs_MarkupCompile.cache
+D:\универ\еще не сдал\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.g.resources
+D:\универ\еще не сдал\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.Properties.Resources.resources
+D:\универ\еще не сдал\alg_kurs\alg_kurs\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\универ\еще не сдал\alg_kurs\alg_kurs\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.exe
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.pdb
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\bin\Debug\alg_kurs.exe
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\bin\Debug\alg_kurs.pdb
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\bin\Debug\Huffman.dll
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\bin\Debug\WPFToolkit.dll
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\bin\Debug\Huffman.pdb
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\bin\Debug\WPFToolkit.pdb
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\MainWindow.baml
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\MainWindow.g.cs
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\App.g.cs
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs_MarkupCompile.cache
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.g.resources
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.Properties.Resources.resources
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\универ\s3e2\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.exe
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.pdb
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\bin\Debug\alg_kurs.exe
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\bin\Debug\alg_kurs.pdb
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\bin\Debug\Huffman.dll
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\bin\Debug\WPFToolkit.dll
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\bin\Debug\Huffman.pdb
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\bin\Debug\WPFToolkit.pdb
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\MainWindow.baml
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\App.g.cs
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs_MarkupCompile.cache
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.g.resources
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.Properties.Resources.resources
+C:\Users\Дмитрий\Dropbox\3 курс\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.csproj.GenerateResource.Cache
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.exe
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.pdb
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\bin\Debug\alg_kurs.exe
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\bin\Debug\alg_kurs.pdb
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\bin\Debug\Huffman.dll
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\bin\Debug\WPFToolkit.dll
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\bin\Debug\Huffman.pdb
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\bin\Debug\WPFToolkit.pdb
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.csprojResolveAssemblyReference.cache
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\obj\x86\Debug\MainWindow.baml
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\obj\x86\Debug\App.g.cs
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs_MarkupCompile.cache
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.g.resources
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.Properties.Resources.resources
+C:\Users\Дмитрий\Dropbox\Университеты\s3\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.csproj.GenerateResource.Cache
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.exe
+E:\DynamicHaffmanCoding\alg_kurs\alg_kurs\obj\x86\Debug\alg_kurs.pdb
